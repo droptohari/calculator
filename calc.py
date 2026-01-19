@@ -9,6 +9,7 @@ if __name__ == "__main__":
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
+    print("3")
     choice = input("Enter choice (1/2): ")
     num1 = int(input("Enter first number: "))
     num2 = int(input("Enter second number: "))
